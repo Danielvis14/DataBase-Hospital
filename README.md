@@ -12,8 +12,7 @@ Os pacientes também precisam de cadastro, contendo dados pessoais (nome, data d
 As consultas também têm sido registradas em planilhas, com data e hora de realização, médico responsável, paciente, valor da consulta ou nome do convênio, com o número da carteira. Também é necessário indicar na consulta qual a especialidade buscada pelo paciente.
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.
     </p>
- 
-   ![DataBase Hospital-1](https://github.com/Danielvis14/Data_Base_Hospital_PARTE1/assets/25780368/ddb22d12-97aa-43b9-b323-a0e93420b494)
+ <img src="https://github.com/Danielvis14/Data_Base_Hospital_PARTE1/assets/25780368/ddb22d12-97aa-43b9-b323-a0e93420b494" />
 
     
 <h2>Mãos a Obra</h2>
